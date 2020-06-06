@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: sayhello
+Version: 0.0.1
+Summary: say hello
+Home-page: UNKNOWN
+Author: momoclub
+Author-email: momoclub@yahoo.com
+License: UNKNOWN
+Description: # Say Hello
+        
+        This is an example project demonstrating how to publish a   # ( a small paragraph describing what the project does )
+        python module to PyPI
+        
+        ## Installation
+        
+        run the following to install
+        
+        '''python
+        pip install sayhello
+        '''
+        
+        ## Usage
+        
+        '''python
+        from hello import say_hello
+        
+        # Generate "hello, World"
+        say_hello
+        
+        # Generate "Hello, Everybody!"
+        say_hello("Everybody")
+        '''
+        
+        # Developing Say World
+        
+        to install sayhello, along with the tools you 
+        need to develop and run tests, run the following
+        in your virtualenv
+        
+        '''python
+        pip install -e .[dev]
+Platform: UNKNOWN
+Classifier: Programming Language :: python :: 3Programming Language :: python :: 3.6Programming Language :: python :: 3.7Programming Language :: python :: 3.8License :: OSI Approved :: GNU General Public License v3.0 or later(GNU GPLv3 +)Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Provides-Extra: dev

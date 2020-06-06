@@ -1,0 +1,8 @@
+README.md
+setup.py
+SRC/hello.py
+SRC/sayhello.egg-info/PKG-INFO
+SRC/sayhello.egg-info/SOURCES.txt
+SRC/sayhello.egg-info/dependency_links.txt
+SRC/sayhello.egg-info/requires.txt
+SRC/sayhello.egg-info/top_level.txt
